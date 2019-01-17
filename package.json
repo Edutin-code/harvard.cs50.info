@@ -1,5 +1,5 @@
 {
-  "author": "CS50",
+  "author": "Edutin",
   "description": "Provides a dialog for CS50 workspace information",
   "contributors": [
     {
@@ -22,11 +22,19 @@
     {
       "name": "Kareem Zidane",
       "email": "kzidane@cs50.harvard.edu"
+    },
+    {
+      "email": "mijail@edutin.com",
+      "name": "Mijail D. Molina Lavrishcheva"
+    },
+    {
+      "email": "administrador@edutin.com",
+      "name": "Sergio Obredor"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cs50/harvard.cs50.info.git"
+    "url": "https://github.com/Edutin-code/harvard.cs50.info.git"
   },
   "categories": [ "miscellaneous" ],
   "name": "harvard.cs50.info",
